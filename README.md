@@ -3,5 +3,5 @@ Just a simple snake game try, made by following a tutorial
 
 
 Need to:
-   -figure out why it repeats start menu
-   -make better graphics
+   1. figure out why it repeats start menu
+   2. make better graphics
